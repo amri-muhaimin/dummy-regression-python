@@ -1,0 +1,3 @@
+pandas – untuk baca dan olah data.
+statsmodels – untuk regresi OLS & uji statistik.
+matplotlib – untuk visualisasi residual dan diagnostic plot.
